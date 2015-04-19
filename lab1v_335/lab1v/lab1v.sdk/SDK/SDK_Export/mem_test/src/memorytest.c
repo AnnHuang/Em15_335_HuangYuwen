@@ -69,7 +69,7 @@ void test_memory_range(struct memory_range_s *range) {
 
 int main()
 {
-    print("==== My lab1 plus: 313-Zhang Hanlun ====");
+    print("==== My lab1 plus: 335-Huang Yuwen ====");
 	int i;
 
     init_platform();
