@@ -1,0 +1,6 @@
+23:01:05 **** Auto Build of configuration Debug for project mem_test ****
+make all 
+make: Nothing to be done for `all'.
+
+23:01:08 Build Finished (took 2s.208ms)
+
